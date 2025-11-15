@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DACBC79-0D90-4428-A973-CAFD42A04964}|DZ12.11.2025\\DZ12.11.2025.vcxproj|D:\\Project1\\DZ12.11.2025\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0DACBC79-0D90-4428-A973-CAFD42A04964}|DZ12.11.2025\\DZ12.11.2025.vcxproj|solutionrelative:DZ12.11.2025\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BC6D568B-0924-48E2-9F9C-0D9F4AC9B3F0}|14.11.2025\\14.11.2025.vcxproj|D:\\Project1\\14.11.2025\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC6D568B-0924-48E2-9F9C-0D9F4AC9B3F0}|14.11.2025\\14.11.2025.vcxproj|solutionrelative:14.11.2025\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.cpp",
-              "DocumentMoniker": "D:\\Project1\\DZ12.11.2025\\Source.cpp",
-              "RelativeDocumentMoniker": "DZ12.11.2025\\Source.cpp",
-              "ToolTip": "D:\\Project1\\DZ12.11.2025\\Source.cpp",
-              "RelativeToolTip": "DZ12.11.2025\\Source.cpp",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Project1\\14.11.2025\\Source.cpp",
+              "RelativeDocumentMoniker": "14.11.2025\\Source.cpp",
+              "ToolTip": "D:\\Project1\\14.11.2025\\Source.cpp",
+              "RelativeToolTip": "14.11.2025\\Source.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-14T18:23:39.126Z",
+              "WhenOpened": "2025-11-15T19:23:55.684Z",
               "EditorCaption": ""
             }
           ]
